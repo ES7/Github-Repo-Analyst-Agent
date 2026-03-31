@@ -141,6 +141,3 @@ Co-founder, [VokeAI](https://github.com/ebadsayed) — AI startup, government gr
 
 Connect: [LinkedIn](https://linkedin.com/in/ebadsayed) · [GitHub](https://github.com/ebadsayed)
 
----
-
-*Built with Gemini Flash + PyGithub · Runs on free tier · No frameworks*
