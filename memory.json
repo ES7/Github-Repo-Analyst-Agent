@@ -1,0 +1,18 @@
+{
+  "https://github.com/ES7/onepiece-error-sounds-vscode": {
+    "last_analyzed": "2026-03-30 12:49:04",
+    "analysis_count": 3,
+    "last_report_summary": "## TL;DR\nThis VS Code extension adds a humorous twist to coding by playing iconic sound effects from the anime One Piece when errors or warnings occur in the terminal or diagnostics. Different characters, like Luffy for warnings and Katakuri for errors, are triggered by specific message keywords or exit codes.\n\n## Architecture overview\nThe project is structured as a standard VS Code extension. The main logic resides in `src/extension.ts`, handling the listening for terminal output, exit codes, a",
+    "last_stars": null,
+    "last_forks": null,
+    "last_commit": null
+  },
+  "https://github.com/ES7/Github-Repo-Analyst-Agent": {
+    "last_analyzed": "2026-03-31 08:39:42",
+    "analysis_count": 2,
+    "last_report_summary": "## TL;DR\nThis repository is an autonomous AI agent designed to analyze public GitHub repositories and generate structured technical reports. It is implemented from scratch utilizing a ReAct agent loop with tools like Gemini Flash and PyGithub, offering a streamlined solution for repository analysis.\n\n## Architecture overview\nThe project is organized into several key files: `app.py` serves as the Streamlit frontend, `core.py` contains the ReAct agent logic, while additional files like `prompts.py",
+    "last_stars": null,
+    "last_forks": null,
+    "last_commit": null
+  }
+}
