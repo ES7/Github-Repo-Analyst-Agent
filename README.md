@@ -150,8 +150,7 @@ API docs available at `http://localhost:8000/docs`
 ## Author
 
 **Ebad Sayed** — Final year, IIT (ISM) Dhanbad
-Co-founder, [VokeAI](https://github.com/ES7) — AI startup, government grant recipient
 
-Connect: [LinkedIn](https://linkedin.com/in/ebadsayed) · [GitHub](https://github.com/ES7)
+Connect: [LinkedIn](https://www.linkedin.com/in/ebad-sayed-0861a6227/) · [GitHub](https://github.com/ES7)
 
 Medium: [GitHub Repo Analyst Agent](https://medium.com/@sayedebad.777/i-built-a-github-repo-analyst-agent-from-scratch-no-langchain-no-frameworks-d0c6f5a85bf2)
